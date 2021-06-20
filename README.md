@@ -1,2 +1,9 @@
-This is a website basically where you can adopt pets like cats and dogs. There are many organizations where you find doing this social cause, but it reaches to very less people. This website helps many homeless dogs and adoptable dogs rather than stay dogs to lead their life happily in some houses. There is not only a web pages where you can adopt pets but you can also find many web pages like pet’s items i.e. warm bed for pets, organic food for pets, and many other things. We can also directly contact the team members of the pet adoption website members. 
-This project is done using HTML, CSS and BOOTSTRAP as front end and we will connect the html program with PHP and MYSQL which is known as XAMPP. 
+This is a pet adoption website basically used to adopt pets online.
+This repositary contains all the reqired files used in my project.
+This project is made using HTML, CSS, Bootstrap as front end.
+This project uses mySQL as backend which is connected using PHP.
+
+Below are some images of my project.
+![Screenshot (206)](https://user-images.githubusercontent.com/61503734/122663421-fbe15100-d1b7-11eb-9dfa-5a646448ec04.png)
+![Screenshot (214)](https://user-images.githubusercontent.com/61503734/122663423-03a0f580-d1b8-11eb-9430-78295f2df623.png)
+![Screenshot (215)](https://user-images.githubusercontent.com/61503734/122663428-0dc2f400-d1b8-11eb-98d7-19e37a8fded3.png)
