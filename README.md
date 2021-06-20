@@ -1,3 +1,4 @@
+![Screenshot (248)](https://user-images.githubusercontent.com/61503734/122663550-d9036c80-d1b8-11eb-90ea-0816406a227b.png)
 This is a pet adoption website basically used to adopt pets online.
 This repositary contains all the reqired files used in my project.
 This project is made using HTML, CSS, Bootstrap as front end.
